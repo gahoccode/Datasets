@@ -1,0 +1,26 @@
+﻿kb_item,item_id,vci_item,vci_item_id,item_en
+1. Doanh thu bán hàng và cung cấp dịch vụ,n_1.revenue,Doanh thu bán hàng và cung cấp dịch vụ,isa1,Sales
+2. Các khoản giảm trừ doanh thu,n_2.deduction_from_revenue,Các khoản giảm trừ doanh thu,isa2,Sales deductions
+3. Doanh thu thuần về bán hàng và cung cấp dịch vụ,n_3.net_revenue,Doanh thu thuần,isa3,Net sales
+4. Giá vốn hàng bán,n_4.cost_of_goods_sold,Giá vốn hàng bán,isa4,Cost of sales
+5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ,n_5.gross_profit,Lợi nhuận gộp,isa5,Gross Profit
+"6. Lãi/Lỗ của hoạt động bán, thanh lý bất động sản đầu tư",n_6.gain_loss_on_disposal_of_investment_property,,,
+7. Doanh thu hoạt động tài chính,n_7.financial_income,Doanh thu hoạt động tài chính,isa6,Financial income
+8. Chi phí tài chính,n_8.financial_expenses,Chi phí tài chính,isa7,Financial expenses
+Trong đó: Chi phí đi vay,of_which_interest_expense,Chi phí lãi vay,isa8,Interest expenses
+"8. Phần lãi/lỗ trong công ty liên doanh, liên kết",n_8.share_of_associates_and_joint_ventures_result,Lãi/(lỗ) từ công ty liên doanh (từ năm 2015),isa102,Gain/(loss) from joint ventures (from 2015)
+9. Chi phí bán hàng,n_9.selling_expenses,Chi phí bán hàng,isa9,Selling expenses
+10. Chi phí quản lý doanh nghiệp,n_10.general_and_administrative_expenses,Chi phí quản lý doanh nghiệp,isa10,General and admin expenses
+11. Lợi nhuận thuần từ hoạt động kinh doanh,n_11.operating_profit,Lãi/(lỗ) từ hoạt động kinh doanh,isa11,Operating profit/(loss)
+12. Thu nhập khác,n_12.other_income,Thu nhập khác,isa12,Other incomes
+13. Chi phí khác,n_13.other_expenses,Chi phí khác,isa13,Other expenses
+14. Lợi nhuận khác,n_14.other_profit,"Thu nhập khác, ròng",isa14,Net other income/(expenses)
+Phần lợi nhuận/lỗ từ công ty liên kết liên doanh,share_of_associates_and_joint_ventures_result,Lãi/(lỗ) từ công ty liên doanh,isa15,Income from investments in other entities
+15. Tổng lợi nhuận kế toán trước thuế,n_15.profit_before_tax,Lãi/(lỗ) trước thuế,isa16,Net accounting profit/(loss) before tax
+16. Chi phí thuế TNDN hiện hành,n_16.current_corporate_income_tax_expenses,Thuế thu nhập doanh nghiệp - hiện thời,isa17,Business income tax - current
+17. Chi phí thuế TNDN hoãn lại,n_17.deferred_income_tax_expenses,Thuế thu nhập doanh nghiệp - hoãn lại,isa18,Business income tax - deferred
+18. Lợi nhuận sau thuế thu nhập doanh nghiệp,n_18.net_profit_after_tax,Lãi/(lỗ) thuần sau thuế,isa20,Net profit/(loss) after tax
+Lợi ích của cổ đông thiểu số,minority_interest,Lợi ích của cổ đông thiểu số,isa21,Minority interests
+Lợi nhuận sau thuế của cổ đông của Công ty mẹ,profit_after_tax_for_shareholders_of_parent_company,Lợi nhuận của Cổ đông của Công ty mẹ,isa22,Attributable to parent company
+19. Lãi cơ bản trên cổ phiếu (VNÐ),n_19.earnings_per_share_vnd,Lãi cơ bản trên cổ phiếu (VND),isa23,EPS basic (VND)
+20. Lãi suy giảm trên cổ phiếu (*),n_20.diluted_earnings_per_share,Lãi trên cổ phiếu pha loãng (VND),isa24,EPS diluted (VND)

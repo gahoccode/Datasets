@@ -1,0 +1,144 @@
+﻿kb_item,item_id,vci_item,vci_item_id,item_en
+TÀI SẢN,assets,,,
+A. TÀI SẢN NGẮN HẠN,a.short_term_assets,TÀI SẢN NGẮN HẠN,bsa1,CURRENT ASSETS
+I. Tiền và các khoản tương đương tiền,i.cash_and_cash_equivalents,Tiền và tương đương tiền,bsa2,Cash and cash equivalents
+1. Tiền,n_1.cash,Tiền,bsa3,Cash
+2. Các khoản tương đương tiền,n_2.cash_equivalents,Các khoản tương đương tiền,bsa4,Cash equivalents
+II. Đầu tư tài chính ngắn hạn,ii.short_term_financial_investments,Đầu tư ngắn hạn,bsa5,Short-term investments
+1. Chứng khoán kinh doanh,n_1.trading_securities,Đầu tư ngắn hạn,bsa6,Short-term investments
+2. Dự phòng giảm giá chứng khoán kinh doanh (*),n_2.provision_for_diminution_in_value_of_available_for_sale_securities,Dự phòng giảm giá,bsa7,Provision for diminution
+3. Đầu tư nắm giữ đến ngày đáo hạn ngắn hạn,n_3.short_term_held_to_maturity_investments,Đầu tư nắm giữ đến ngày đáo hạn,bsb108,Held-to-maturity investment
+4. Dự phòng đầu tư nắm giữ đến ngày đáo hạn ngắn hạn (*),n_4.provision_for_short_term_investments_held_to_maturity,,,
+5. Đầu tư ngắn hạn khác,n_5.other_short_term_investments,,,
+6. Dự phòng tổn thất các khoản đầu tư ngắn hạn khác (*),n_6.provision_for_impairment_of_other_short_term_investments,,,
+III. Các khoản phải thu ngắn hạn,iii.short_term_receivables,Các khoản phải thu,bsa8,Accounts receivable
+1. Phải thu ngắn hạn của khách hàng,n_1.short_term_trade_accounts_receivable,Phải thu khách hàng,bsa9,Trade accounts receivable
+2. Trả trước cho người bán ngắn hạn,n_2.short_term_prepayments_to_suppliers,Trả trước người bán,bsa10,Prepayments to suppliers
+3. Phải thu nội bộ ngắn hạn,n_3.short_term_inter_company_receivables,Phải thu nội bộ,bsa11,Intercompany receivables
+4. Phải thu theo tiến độ hợp đồng xây dựng,n_4.receivables_under_construction_contracts,Phải thu hợp đồng xây dựng đang thực hiện,bsa12,Construction contract in progress receivables
+5. Phải thu về cho vay ngắn hạn,n_5.short_term_loan_receivables,Phải thu cho vay ngắn hạn,bsa159,Short-term loans receivables
+5. Phải thu ngắn hạn khác,n_5.other_short_term_receivables,Phải thu khác,bsa13,Other receivables
+6. Dự phòng phải thu ngắn hạn khó đòi (*),n_6.provision_for_short_term_doubtful_debts,Dự phòng nợ khó đòi,bsa14,Provision for doubtful debts
+7. Tài sản thiếu chờ xử lý,n_7.assets_awaiting_resolution,Tài sản thiếu cần xử lý,bsi141,Shortage of current assets waiting for solution
+IV. Hàng tồn kho,iv.inventories,"Hàng tồn kho, ròng",bsa15,"Inventories, Net"
+1. Hàng tồn kho,n_1.inventories,Hàng tồn kho,bsa16,Inventories
+2. Dự phòng giảm giá hàng tồn kho (*),n_2.provision_for_decline_in_value_of_inventories,Dự phòng giảm giá hàng tồn kho,bsa17,Provision for decline in inventories
+V. Tài sản sinh học ngắn hạn,v.short_term_biological_assets,,,
+1. Súc vật nuôi lấy sản phẩm một lần ngắn hạn,n_1.short_term_consumable_livestock,,,
+2. Cây trồng theo mùa vụ hoặc lấy sản phẩm một lần ngắn hạn,n_2.short_term_seasonal_or_single_harvest_crops,,,
+3. Dự phòng tổn thất tài sản sinh học ngắn hạn (*),n_3.provision_for_impairment_of_short_term_biological_assets,,,
+VI. Tài sản ngắn hạn khác,vi.other_short_term_assets,Tài sản lưu động khác,bsa18,Other current assets
+1. Chi phí chờ phân bổ ngắn hạn,n_1.short_term_deferred_expenses,Chi phí trả trước ngắn hạn,bsa19,Short-term prepayments
+2. Thuế GTGT được khấu trừ,n_2.deductible_value_added_tax,Thuế GTGT được khấu trừ,bsa20,VAT to be claimed
+3. Thuế và các khoản khác phải thu Nhà nước,n_3.taxes_and_other_receivables_from_state_authorities,Phải thu thuế khác,bsa21,Other taxes receivable
+4. Giao dịch mua bán lại trái phiếu chính phủ,n_4.repurchase_government_bonds_transactions,Giao dịch mua bán lại trái phiếu Chính phủ,bsa160,Government bonds purchased for resale
+5. Tài sản ngắn hạn khác,n_5.other_short_term_assets,Tài sản lưu động khác,bsa22,Other current assets
+B. TÀI SẢN DÀI HẠN,b.long_term_assets,TÀI SẢN DÀI HẠN,bsa23,LONG-TERM ASSETS
+I. Các khoản phải thu dài hạn,i.long_term_receivables,Phải thu dài hạn,bsa24,Long-term trade receivables
+1. Phải thu dài hạn của khách hàng,n_1.long_term_trade_receivables,Phải thu khách hàng dài hạn,bsa25,Long-term trade receivables from customers
+2. Trả trước cho người bán dài hạn,n_2.long_term_prepayments_to_suppliers,Trả trước người bán dài hạn,bsa161,Long-term prepayments to suppliers
+3. Vốn kinh doanh ở các đơn vị trực thuộc,n_3.capital_at_inter_company,Vốn kinh doanh ở các đơn vị trực thuộc,bss134,Paid-in capital in wholly-owned subsidiaries
+4. Phải thu nội bộ dài hạn,n_4.long_term_inter_company_receivables,Phải thu nội bộ dài hạn,bsa26,Long-term intercompany receivables
+5. Phải thu về cho vay dài hạn,n_5.long_term_loan_receivables,Phải thu cho vay dài hạn,bsa162,Long-term loans receivables
+5. Phải thu dài hạn khác,n_5.other_long_term_receivables,Phải thu dài hạn khác,bsa27,Other long-term receivables
+6. Dự phòng phải thu dài hạn khó đòi (*),n_6.provision_for_long_term_doubtful_debts,Dự phòng phải thu dài hạn,bsa28,Provision for doubtful LT receivable
+II. Tài sản cố định,ii.fixed_assets,Tài sản cố định,bsa29,Fixed assets
+1. Tài sản cố định hữu hình,n_1.tangible_fixed_assets,GTCL TSCĐ hữu hình,bsa30,Tangible fixed assets
+- Nguyên giá,cost,Nguyên giá TSCĐ hữu hình,bsa31,Cost
+- Giá trị hao mòn lũy kế (*),accumulated_depreciation,Khấu hao lũy kế TSCĐ hữu hình,bsa32,Accumulated depreciation
+2. Tài sản cố định thuê tài chính,n_2.financial_leased_fixed_assets,GTCL tài sản thuê tài chính,bsa33,Finance lease assets
+- Nguyên giá,cost_2,Nguyên giá tài sản thuê tài chính,bsa34,Cost
+- Giá trị hao mòn lũy kế (*),accumulated_depreciation_2,Khấu hao lũy kế tài sản thuê tài chính,bsa35,Accumulated depreciation
+3. Tài sản cố định vô hình,n_3.intangible_fixed_assets,GTCL tài sản cố định vô hình,bsa36,Intangible fixed assets
+- Nguyên giá,cost_3,Nguyên giá TSCĐ vô hình,bsa37,Cost
+- Giá trị hao mòn lũy kế (*),accumulated_depreciation_3,Khấu hao lũy kế TSCĐ vô hình,bsa38,Accumulated depreciation
+III. Tài sản sinh học dài hạn,iii.long_term_biological_assets,,,
+1. Súc vật nuôi cho sản phẩm định kỳ,n_1.bearer_livestock,,,
+a) Súc vật nuôi cho sản phẩm định kỳ chưa đến giai đoạn trưởng thành,a_immature_bearer_livestock,,,
+b) Súc vật nuôi cho sản phẩm định kỳ đến giai đoạn trưởng thành,b_mature_bearer_livestock,,,
+- Nguyên giá,cost_4,,,
+- Giá trị khấu hao lũy kế (*),accumulated_depreciation_4,,,
+2. Súc vật nuôi lấy sản phẩm một lần dài hạn,n_2.long_term_consumable_livestock,,,
+3. Cây trồng theo mùa vụ hoặc lấy sản phẩm một lần dài hạn,n_3.long_term_seasonal_or_single_harvest_crops,,,
+4. Dự phòng tổn thất tài sản sinh học dài hạn (*),n_4.provision_for_impairment_of_long_term_biological_assets,,,
+IV. Bất động sản đầu tư,iv.investment_properties,Giá trị ròng tài sản đầu tư,bsa40,Investment properties
+- Nguyên giá,cost_5,Nguyên giá tài sản đầu tư,bsa41,Cost
+- Giá trị hao mòn lũy kế (*),accumulated_depreciation_5,Khấu hao lũy kế tài sản đầu tư,bsa42,Accumulated depreciation
+V. Tài sản dở dang dài hạn,v.long_term_assets_in_progress,Tài sản dở dang dài hạn,bsa163,Long-term incomplete assets
+"1. Chi phí sản xuất, kinh doanh dở dang dài hạn",n_1.long_term_production_in_progress,"Chi phí sản xuất, kinh doanh dở dang dài hạn",bsa164,Long-term cost of work in progress
+2. Chi phí xây dựng cơ bản dở dang,n_2.construction_in_progress,Xây dựng cơ bản đang dở dang,bsa188,Construction in progress
+VI. Đầu tư tài chính dài hạn,vi.long_term_financial_investments,Đầu tư dài hạn,bsa43,Long-term investments
+1. Đầu tư vào công ty con,n_1.investments_in_subsidiaries,Đầu tư vào các công ty con,bsa44,Investments in subsidiaries
+"2. Đầu tư vào công ty liên doanh, liên kết",n_2.investments_in_associates_joint_ventures,Đầu tư vào các công ty liên kết,bsa45,Investments in associates
+3. Đầu tư góp vốn vào đơn vị khác,n_3.investments_in_other_entities,Đầu tư dài hạn khác,bsa46,Other long-term investments
+4. Dự phòng tổn thất đầu tư vào đơn vị khác dài hạn (*),n_4.allowance_for_long_term_investment_loss_in_other_entities,Dự phòng giảm giá đầu tư dài hạn,bsa47,Provision for long-term investments
+5. Đầu tư nắm giữ đến ngày đáo hạn dài hạn,n_5.long_term_held_to_maturity_investments,Đầu tư nắm giữ đến ngày đáo hạn,bsa165,Held-to-maturity investment
+6. Dự phòng đầu tư nắm giữ đến ngày đáo hạn dài hạn (*),n_6.provision_for_long_term_investments_held_to_maturity,,,
+6. Đầu tư dài hạn khác,n_6.other_long_term_investments,Đầu tư dài hạn khác,bsa46,Other long-term investments
+VII. Tài sản dài hạn khác,vii.other_long_term_assets,Tài sản dài hạn khác,bsa49,Other long-term assets
+1. Chi phí chờ phân bổ dài hạn,n_1.long_term_deferred_expenses,Trả trước dài hạn,bsa50,Long-term prepayments
+2. Tài sản thuế thu nhập hoãn lại,n_2.deferred_income_tax_assets,Thuế thu nhập hoãn lại,bsa51,Deferred income tax assets
+"3. Thiết bị, vật tư, phụ tùng thay thế dài hạn",n_3.long_term_equipment_supplies_spare_parts,"Thiết bị, vật tư, phụ tùng thay thế dài hạn",bsa166,"Long-term equipment, material and spare parts"
+4. Tài sản dài hạn khác,n_4.other_long_term_assets,Các tài sản dài hạn khác,bsa52,Other long-term assets
+5. Lợi thế thương mại,n_5.goodwill,Lợi thế thương mại,bsa209,Goodwill
+VII. Lợi thế thương mại (áp dụng trước năm 2015),vii.goodwill_before_2015,Lợi thế thương mại (trước 2015),bsa48,Goodwill (before 2015)
+TỔNG CỘNG TÀI SẢN,total_assets,TỔNG CỘNG TÀI SẢN,bsa53,Total Assets
+NGUỒN VỐN,owners_equity,,,
+C. NỢ PHẢI TRẢ,c.liabilities,NỢ PHẢI TRẢ,bsa54,Liabilities
+I. Nợ ngắn hạn,i.short_term_liabilities,Nợ ngắn hạn,bsa55,Current liabilities
+1. Phải trả người bán ngắn hạn,n_1.short_term_trade_accounts_payable,Phải trả người bán,bsa57,Trade accounts payable
+2. Người mua trả tiền trước ngắn hạn,n_2.short_term_advances_from_customers,Người mua trả tiền trước,bsa58,Advances from customers
+"3. Phải trả cổ tức, lợi nhuận",n_3.dividends_and_profits_payable,,,
+4. Thuế và các khoản phải nộp Nhà nước ngắn hạn,n_4.short_term_taxes_and_other_payables_to_the_government,Thuế và các khoản phải trả Nhà nước,bsa59,Taxes and other payable to State Budget
+5. Phải trả người lao động,n_5.payable_to_employees,Phải trả người lao động,bsa60,Payable to employees
+6. Chi phí phải trả ngắn hạn,n_6.short_term_accrued_expenses,Chi phí phải trả,bsa61,Accrued expenses
+7. Phải trả nội bộ ngắn hạn,n_7.short_term_inter_company_payables,Phải trả nội bộ,bsa62,Intercompany payables
+8. Phải trả theo tiến độ hợp đồng xây dựng ngắn hạn,n_8.short_term_payables_for_construction_contract_progress,Phải trả về xây dựng cơ bản,bsa63,Construction contract in progress payables
+9. Doanh thu chờ phân bổ ngắn hạn,n_9.short_term_unearned_revenue,Doanh thu chưa thực hiện ngắn hạn,bsa167,Short-term unrealized revenue
+10. Phải trả ngắn hạn khác,n_10.other_short_term_payables,Phải trả khác,bsa64,Other payables
+11. Vay và nợ thuê tài chính ngắn hạn,n_11.short_term_borrowings_and_financial_leases,Vay ngắn hạn,bsa56,Short-term borrowings
+12. Dự phòng phải trả ngắn hạn,n_12.provision_for_short_term_liabilities,Dự phòng các khoản phải trả ngắn hạn,bsa65,Provision for ST liabilities
+"13. Quỹ khen thưởng, phúc lợi",n_13.bonus_and_welfare_fund,"Quỹ khen thưởng, phúc lợi",bsa66,Bonus and welfare funds
+14. Quỹ bình ổn giá,n_14.price_stabilization_fund,Quỹ bình ổn giá,bsa168,Price stabilization fund
+15. Giao dịch mua bán lại trái phiếu Chính phủ,n_15.government_bonds,Giao dịch mua bán lại trái phiếu chính phủ,bsa169,Government bonds purchased for resale
+II. Nợ dài hạn,ii.long_term_liabilities,Nợ dài hạn,bsa67,Long-term liabilities
+1. Phải trả người bán dài hạn,n_1.long_term_trade_payables,Phải trả nhà cung cấp dài hạn,bsa68,Long-term trade payables
+2. Người mua trả tiền trước dài hạn,n_2.long_term_advances_from_customers,Người mua trả tiền trước dài hạn,bsa170,Long-term advances from customers
+3. Thuế và các khoản phải nộp Nhà nước dài hạn,n_3.long_term_taxes_and_other_payables_to_the_government,,,
+4. Chi phí phải trả dài hạn,n_4.long_term_accrued_expenses,Chi phí phải trả dài hạn,bsa171,Long-term accrued expenses
+5. Phải trả nội bộ về vốn kinh doanh,n_5.inter_company_payables_on_business_capital,Phải trả nội bộ về vốn kinh doanh,bsa172,Intra-company payables for operating capital received
+6. Phải trả nội bộ dài hạn,n_6.long_term_inter_company_payables,Phải trả nội bộ dài hạn,bsa69,Long-term intercompany payables
+7. Doanh thu chờ phân bổ dài hạn,n_7.long_term_unearned_revenue,Doanh thu chưa thực hiện,bsa76,Deferred revenue
+8. Phải trả dài hạn khác,n_8.other_long_term_liabilities,Phải trả dài hạn khác,bsa70,Other long-term payables
+9. Vay và nợ thuê tài chính dài hạn,n_9.long_term_borrowings_and_financial_leases,Vay dài hạn,bsa71,Long-term borrowings
+10. Trái phiếu chuyển đổi,n_10.convertible_bonds,Trái phiếu chuyển đổi,bsa173,Convertible bonds
+11. Cổ phiếu ưu đãi,n_11.preferred_stock,Cổ phiếu ưu đãi,bsa174,Preferred shares
+12. Thuế thu nhập hoãn lại phải trả,n_12.deferred_income_tax_liabilities,Thuế thu nhập hoãn lại,bsa72,Deferred income tax liabilities
+13. Dự phòng phải trả dài hạn,n_13.provision_for_long_term_liabilities,Dự phòng các khoản nợ dài hạn,bsa74,Provision for long-term liabilities
+14. Quỹ phát triển khoa học và công nghệ,n_14.fund_for_technology_development,Quỹ phát triển khoa học công nghệ,bsa77,Technology-science development fund
+14. Dự phòng trợ cấp mất việc làm,n_14.provision_for_severance_allowances,Dự phòng trợ cấp thôi việc,bsa73,Provision for severance allowances
+D. VỐN CHỦ SỞ HỮU,d.owners_equity,Vốn chủ sở hữu,bsa78,Owner's Equity
+I. Vốn chủ sở hữu,i.owners_equity,Vốn và các quỹ,bsa79,Capital and reserves
+1. Vốn góp của chủ sở hữu,n_1.owners_capital,Vốn góp,bsa80,Paid-in capital
+- Cổ phiếu phổ thông có quyền biểu quyết,common_stock_with_voting_right,Cổ phiếu phổ thông,bsa175,Common shares
+- Cổ phiếu ưu đãi,preferred_stock,Cổ phiếu ưu đãi,bsa120,Preferred shares
+2. Thặng dư vốn,n_2.share_premium,Thặng dư vốn cổ phần,bsa81,Share premium
+3. Quyền chọn chuyển đổi trái phiếu,n_3.convertible_bond_option,Quyền chọn chuyển đổi trái phiếu,bsa176,Conversion options on convertible bonds
+4. Vốn khác của chủ sở hữu,n_4.other_capital_of_owners,Vốn khác,bsa82,Owner's other capital
+5. Cổ phiếu mua lại của chính mình (*),n_5.treasury_shares,Cổ phiếu quỹ,bsa83,Treasury shares
+6. Chênh lệch đánh giá lại tài sản,n_6.assets_revaluation_differences,Chênh lệch đánh giá lại tài sản,bsa84,Differences upon asset revaluation
+7. Chênh lệch tỷ giá hối đoái,n_7.foreign_exchange_differences,Chênh lệch tỷ giá,bsa85,Foreign exchange differences
+8. Quỹ đầu tư phát triển,n_8.investment_and_development_fund,Quỹ đầu tư và phát triển,bsa86,Investment and development funds
+9. Quỹ hỗ trợ sắp xếp doanh nghiệp,n_9.fund_to_support_corporate_restructuring,Quỹ hỗ trợ sắp xếp doanh nghiệp,bsa91,Enterprise arrangement fund
+9. Quỹ khác thuộc vốn chủ sở hữu,n_9.other_funds_from_owners_equity,Quỹ khác,bsa89,Other funds
+10. Lợi nhuận sau thuế chưa phân phối,n_10.undistributed_earnings_after_tax,Lãi chưa phân phối,bsa90,Undistributed earnings
+- LNST chưa phân phối lũy kế đến cuối kỳ trước,accumulated_retained_earning_at_the_end_of_the_previous_period,LNST chưa phân phối lũy kế đến cuối kỳ trước,bsa177,Beginning accumulated undistributed earnings
+- LNST chưa phân phối kỳ này,undistributed_earnings_in_this_period,LNST chưa phân phối kỳ này,bsa178,Current period undistributed earnings
+12. Nguồn vốn đầu tư XDCB,n_12.reserves_for_investment_in_construction,Vốn Ngân sách nhà nước và quỹ khác,bsa92,Budget sources and other funds
+13. Lợi ích cổ đông không kiểm soát,n_13.minority_interest,Lợi ích cổ đông không kiểm soát,bsa210,Minority interests
+14. Quỹ dự phòng tài chính,n_14.financial_reserves,Quỹ dự phòng tài chính,bsa87,Financial reserve funds
+II. Nguồn kinh phí và quỹ khác,ii.other_resources_and_funds,Vốn ngân sách nhà nước và quỹ khác,bsa94,Budget sources and other funds
+1. Nguồn kinh phí,n_1.funding_sources,Vốn Ngân sách nhà nước và quỹ khác,bsa92,Budget sources and other funds
+2. Nguồn kinh phí đã hình thành TSCĐ,n_2.funds_used_to_form_fixed_assets,Nguồn kinh phí đã hình thành TSCĐ,bsa211,Funds used for fixed asset acquisitions
+C. LỢI ÍCH CỔ ĐÔNG THIỂU SỐ,c.minority_interest,Lợi ích của cổ đông thiểu số,bsa95,Minority interests (Before 2015)
+TỔNG CỘNG NGUỒN VỐN,total_owners_equity_and_liabilities,Tổng cộng nguồn vốn,bsa96,Total resource

@@ -1,0 +1,51 @@
+﻿kb_item,item_id,vci_item,vci_item_id,item_en
+I. Lưu chuyển tiền từ hoạt động kinh doanh,i_cash_flows_from_operating_activities,,,
+1. Lợi nhuận trước thuế,n_1.profit_before_tax,Lợi nhuận/(lỗ) trước thuế,cfa1,Net profit/(loss) before tax
+2. Điều chỉnh cho các khoản,n_2_adjustments_for,,,
+Khấu hao TSCĐ và BĐSĐT,depreciation_of_fixed_assets_and_investment_properties,Khấu hao TSCĐ và BĐSĐT,cfa2,Depreciation and amortization
+Các khoản dự phòng,reversal_of_provisions_provisions,Chi phí dự phòng,cfa3,Provisions
+"Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",foreign_exchange_gain_loss_from_revaluation_of_monetary_items_denominated_in_foreign_currencies,Lãi/lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ,cfa4,Unrealized foreign exchange gain/(loss)
+"Lãi, lỗ từ hoạt động đầu tư, tài chính",gains_losses_from_investing_and_financing_activities,(Lãi)/lỗ từ hoạt động đầu tư,cfa6,Profit/loss from investing activities
+Chi phí đi vay,borrowing_costs,Chi phí lãi vay,cfa7,Interest expense
+"Lãi, lỗ từ thanh lý TSCĐ",loss_profits_from_disposal_of_fixed_asset,Lãi/(lỗ) từ thanh lý tài sản cố định,cfa5,Profit/loss from liquidating fixed assets
+Thu nhập lãi vay và cổ tức,interest_income_and_dividends,Thu lãi và cổ tức,cfa8,Interest income and dividend
+Phân bổ lợi thế thương mại,allocation_of_goodwill,Phân bổ lợi thế thương mại,cfa103,Amortization of goodwill
+Các khoản điều chỉnh khác,other_adjustments,Các khoản điều chỉnh khác,cfa104,Other adjustments
+3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,n_3.operating_profit_before_changes_in_working_capital,Lợi nhuận/(lỗ) từ hoạt động kinh doanh trước những thay đổi vốn lưu động,cfa9,Operating profit/(loss) before changes in Working Capital
+"Tăng, giảm các khoản phải thu",increase_decrease_in_receivables,(Tăng)/giảm các khoản phải thu,cfa10,(Increase)/decrease in receivables
+"Tăng, giảm hàng tồn kho",increase_decrease_in_inventories,(Tăng)/giảm hàng tồn kho,cfa11,(Increase)/decrease in inventories
+"Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",increase_decrease_in_payables_excluding_interest_payables_and_corporate_income_tax_payables,Tăng/(giảm) các khoản phải trả,cfa12,Increase/(decrease) in payables
+"Tăng, giảm chi phí chờ phân bổ",increase_decrease_in_deferred_expenses,(Tăng)/giảm chi phí trả trước,cfa13,(Increase)/decrease in prepaid expenses
+"Tăng, giảm chứng khoán kinh doanh",changes_in_available_for_sale_securities,(Tăng)/giảm chứng khoán kinh doanh,cfa105,(Increase)/decrease in trading securities
+Chi phí đi vay đã trả,interest_expenses_paid,Tiền lãi vay đã trả,cfa14,Interest paid
+Thuế thu nhập doanh nghiệp đã nộp,corporate_income_tax_paid,Thuế thu nhập doanh nghiệp đã nộp,cfa15,Corporate Income Tax paid
+Tiền thu khác từ hoạt động kinh doanh,other_receipts_from_operating_activities,Tiền thu khác từ hoạt động kinh doanh,cfa16,Other receipts from operating activities
+Tiền chi khác cho hoạt động kinh doanh,other_payments_for_operating_activities,Tiền chi khác cho hoạt động kinh doanh,cfa17,Other payments on operating activities
+Lưu chuyển tiền thuần từ hoạt động kinh doanh,net_cash_flows_from_operating_activities,Lưu chuyển tiền tệ ròng từ các hoạt động sản xuất kinh doanh,cfa18,Net cash inflows/(outflows) from operating activities
+II. Lưu chuyển tiền từ hoạt động đầu tư,ii_cash_flows_from_investing_activities,,,
+"1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",n_1.payment_for_fixed_assets_constructions_and_other_long_term_assets,"Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",cfa19,Purchases of fixed assets and other long term assets
+"2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",n_2.receipts_from_disposal_of_fixed_assets_and_other_long_term_assets,"Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",cfa20,Proceeds from disposal of fixed assets
+"3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",n_3.loans_purchases_of_other_entities_debt_instruments,"Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",cfa21,"Loans granted, purchases of debt instruments"
+"4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",n_4.receipts_from_loan_repayments_sale_of_other_entities_debt_instruments,"Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",cfa22,"Collection of loans, proceeds from sales of debts instruments"
+5. Tiền chi đầu tư góp vốn vào đơn vị khác,n_5.payments_for_investment_in_other_entities,Tiền chi đầu tư góp vốn vào đơn vị khác,cfa23,Investments in other entities
+6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác,n_6.collections_on_investment_in_other_entities,Tiền thu hồi đầu tư góp vốn vào đơn vị khác,cfa24,Proceeds from divestment in other entities
+"7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",n_7.dividends_interest_and_profit_received,"Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",cfa25,Dividends and interest received
+8. Tăng giảm tiền gửi ngân hàng có kỳ hạn,n_8.increase_decrease_in_term_deposit,,,
+9. Mua lại khoản góp vốn của cổ đông thiểu số trong công ty con,n_9.purchases_of_minority_shares_of_subsidiaries,,,
+10. Tiền thu khác từ hoạt động đầu tư,n_10.other_receipts_from_investing_activities,,,
+11. Tiền chi khác cho hoạt động đầu tư,n_11.other_payments_for_investing_activities,,,
+Lưu chuyển tiền thuần từ hoạt động đầu tư,net_cash_flows_from_investing_activities,Lưu chuyển tiền thuần từ hoạt động đầu tư,cfa26,Net cash inflows/(outflows) from investing activities
+III. Lưu chuyển tiền từ hoạt động tài chính,iii_cash_flows_from_financing_activities,,,
+"1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",n_1.receipts_from_equity_issue_and_owners_capital_contribution,"Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",cfa27,Proceeds from issue of shares
+"2. Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu đã phát hành",n_2.cash_paid_to_repurchased_or_redeem_the_entitys_shares_and_to_owners_for_capital_withdrawal,"Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",cfa28,Payments for share returns and repurchases
+3. Tiền thu từ đi vay,n_3.proceeds_from_borrowings,Tiền thu được các khoản đi vay,cfa29,Proceeds from loans
+4. Tiền trả nợ gốc vay,n_4.principal_repayments,Tiền trả nợ gốc vay,cfa30,Repayment of loans
+5. Tiền trả nợ gốc thuê tài chính,n_5.repayment_of_financial_leases,Tiền trả nợ gốc thuê tài chính,cfa31,Finance lease principal payments
+"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",n_6.dividends_paid_profits_distributed_to_owners,"Cổ tức, lợi nhuận đã trả cho chủ sở hữu",cfa32,Dividends paid
+7. Tiền thu khác từ hoạt động tài chính,n_7.other_receipts_from_financing_activities,,,
+8. Tiền chi khác cho hoạt động tài chính,n_8.other_payments_for_financing_activities,,,
+Lưu chuyển tiền thuần từ hoạt động tài chính,net_cash_flows_from_financing_activities,Lưu chuyển tiền thuần từ hoạt động tài chính,cfa34,Net cash inflows/(outflows) from financing activities
+Lưu chuyển tiền thuần trong kỳ,net_cash_flows_during_the_period,Lưu chuyển tiền thuần trong kỳ,cfa35,Net increase in cash and cash equivalents
+Tiền và tương đương tiền đầu kỳ,cash_and_cash_equivalents_at_beginning_of_the_period,Tiền và tương đương tiền đầu kỳ,cfa36,Cash and cash equivalents at the beginning of period
+Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,exchange_difference_due_to_re_valuation_of_ending_balances,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,cfa37,Effect of foreign exchange differences
+Tiền và tương đương tiền cuối kỳ,cash_and_cash_equivalents_at_end_of_the_period,Tiền và tương đương tiền cuối kỳ,cfa38,Cash and cash equivalents at the end of period
